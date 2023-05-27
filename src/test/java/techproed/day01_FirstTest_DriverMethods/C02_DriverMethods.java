@@ -28,7 +28,7 @@ public class C02_DriverMethods {
 
         //getWindowHandle() Gidilen sayfanın handle değerini(hashCode) verir
         //Bu handle değerini sayfalar arası geçiş için kullanırız.
-        System.out.println("Techproed WindowHandle Değeri  = " + driver.getWindowHandle());
+        System.out.println("Techproed WindowHandle Değeri  = " + driver.getWindowHandle());//7CA53D4DE2E1F6BA756C687E18240D8B
 
 
     }
