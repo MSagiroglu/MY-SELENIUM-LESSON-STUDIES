@@ -1,4 +1,4 @@
-package techproed.day01_FirstTest_DriverMethods;
+package techproed.selenium_lessons.day01_FirstTest_DriverMethods;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;

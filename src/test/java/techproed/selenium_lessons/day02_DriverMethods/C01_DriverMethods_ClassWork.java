@@ -1,6 +1,6 @@
 //testeer olarak asil amacimiz actual ile expected karsilastirilmasidir.
 // actual expected i iceriyor ise passed icermiyor ise failed aliriz
-package techproed.day02_DriverMethods;
+package techproed.selenium_lessons.day02_DriverMethods;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;

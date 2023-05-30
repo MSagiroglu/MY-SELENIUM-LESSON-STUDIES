@@ -1,4 +1,4 @@
-package techproed.day02_DriverMethods;
+package techproed.selenium_lessons.day02_DriverMethods;
 
 import org.openqa.selenium.Dimension;
 import org.openqa.selenium.Point;
